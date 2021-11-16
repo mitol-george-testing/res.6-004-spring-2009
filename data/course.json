@@ -1,0 +1,34 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Design"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1cae3612-db98-0fbf-87a4-130dffa8372a",
+      "3e48f8da-6adb-3bb1-8842-cc4f65114fd5"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Principles of Computer System Design: An Introduction",
+  "course_description": "_Principles of Computer System Design: An Introduction_ is published in two parts. Part I, containing chapters 1-6, is a traditional printed textbook published by Morgan Kaufman, an imprint of Elsevier. Part II, containing chapters 7-11, is available here as an open educational resource.\n\nThis textbook, an introduction to the principles and abstractions used in the design of computer systems, is an outgrowth of notes written for 6.033 _Computer System Engineering_ over a period of 40-plus years. Individual chapters are also used in other EECS subjects. There is also a [Web site for the current 6.033 class](http://mit.edu/6.033) with a lecture schedule that includes daily assignments, lecture notes, and lecture slides. The 6.033 class Web site also contains a thirteen-year archive of class assignments, design projects, and quizzes.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.6-004",
+  "learning_resource_types": [
+    "Online Textbook",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
